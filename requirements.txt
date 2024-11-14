@@ -1,0 +1,6 @@
+pandas
+timezonefinder
+openpyxl
+requests
+pytz
+googlemaps
